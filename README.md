@@ -8,7 +8,7 @@ This project contains localized message files for Eclipse SWT, JFace, and RAP ex
 <dependency>
    <groupId>org.netxms</groupId>
    <artifactId>babel-swt</artifactId>
-   <version>4.26.0</version>
+   <version>4.26.1</version>
 </dependency>
 ```
 
@@ -18,6 +18,6 @@ This project contains localized message files for Eclipse SWT, JFace, and RAP ex
 <dependency>
    <groupId>org.netxms</groupId>
    <artifactId>babel-rwt</artifactId>
-   <version>4.26.0</version>
+   <version>4.26.1</version>
 </dependency>
 ```

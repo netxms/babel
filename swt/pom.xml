@@ -4,7 +4,7 @@
 
    <groupId>org.netxms</groupId>
    <artifactId>babel-swt</artifactId>
-   <version>4.26.0</version>
+   <version>4.26.1</version>
    <packaging>jar</packaging>
 
    <name>babel-swt</name>
